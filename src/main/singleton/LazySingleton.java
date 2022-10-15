@@ -1,4 +1,4 @@
-package main;
+package main.singleton;
 
 public class LazySingleton {
     private static LazySingleton instance = null;
