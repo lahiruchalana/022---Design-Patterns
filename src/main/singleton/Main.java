@@ -1,4 +1,4 @@
-package main;
+package main.singleton;
 
 import com.sun.security.auth.login.ConfigFile;
 import main.singleton.Configuration;
